@@ -25,5 +25,53 @@
       "state": "DENPASAR",
       "country": "INDONESIA"
     },
+    {
+      "dmrId": 5107003,
+      "callsign": "TSB001",
+      "name": "KADE EDI SUARJAYA",
+      "city": "BALI",
+      "state": "KARANGASEM",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107004,
+      "callsign": "TSB003",
+      "name": "ARIF",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107005,
+      "callsign": "TSB004",
+      "name": "FREDY KUSUMA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107006,
+      "callsign": "TSB005",
+      "name": "WAYAN",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107007,
+      "callsign": "TSB006",
+      "name": "ADIT",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107008,
+      "callsign": "TSB007",
+      "name": "SENTANA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
   ]
 }
