@@ -1,18 +1,34 @@
-[
-  {
-    "id": 5107001,
-    "callsign": "PCL01PSY",
-    "name": "Putu Suaryana",
-    "city": "Denpasar",
-    "state": "Bali",
-    "country": "Indonesia"
-  },
-  {
-    "id": 5107002,
-    "callsign": "TSB02PSY",
-    "name": "Putu Suaryana",
-    "city": "Denpasar",
-    "state": "Bali",
-    "country": "Indonesia"
-  }
-]
+{
+  "users": [
+    {
+      "name": "PUTU SUARYANA",
+      "fname": "PUTU SUARYANA",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "PCL26PSY",
+      "city": "BALI",
+      "radio_id": 5107001,
+      "id": 5107001,
+      "state": "BALI",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
+    {
+  "users": [
+    {
+      "name": "TSB002",
+      "fname": "TSB002",
+      "surname": "",
+      "country": "INDONESIA",
+      "callsign": "TSB02PSY",
+      "city": "DENPASAR",
+      "radio_id": 5107002,
+      "id": 1025001,
+      "state": "BALI",
+      "has_valid_callsign": "1",
+      "has_valid_email": 0,
+      "account_unvalidated": 0,
+      "account_validation_status": "validated"
+    },
