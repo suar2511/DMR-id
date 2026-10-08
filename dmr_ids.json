@@ -32,15 +32,7 @@
       "city": "BALI",
       "state": "KARANGASEM",
       "country": "INDONESIA"
-    },
-    {
-      "dmrId": 5107004,
-      "callsign": "TSB003",
-      "name": "ARIF RELAWAN",
-      "city": "BALI",
-      "state": "DENPASAR",
-      "country": "INDONESIA"
-    },
+    }
     {
       "dmrId": 5107005,
       "callsign": "TSB004",
