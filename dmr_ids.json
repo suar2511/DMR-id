@@ -32,7 +32,15 @@
       "city": "BALI",
       "state": "KARANGASEM",
       "country": "INDONESIA"
-    }
+    },
+    {
+      "dmrId": 5107004,
+      "callsign": "TSB003",
+      "name": "ARIF",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
     {
       "dmrId": 5107005,
       "callsign": "TSB004",
@@ -44,7 +52,7 @@
     {
       "dmrId": 5107006,
       "callsign": "TSB005",
-      "name": "WAYAN NUGRAHA",
+      "name": "WAYAN",
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
@@ -52,7 +60,7 @@
     {
       "dmrId": 5107007,
       "callsign": "TSB006",
-      "name": "ADIT IJO",
+      "name": "ADIT",
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
@@ -60,7 +68,7 @@
     {
       "dmrId": 5107008,
       "callsign": "TSB007",
-      "name": "SENTANA WAYAN",
+      "name": "SENTANA",
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
