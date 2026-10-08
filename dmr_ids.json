@@ -15,13 +15,85 @@
   ],
   "contacts": [
     {
-      "dmrId": 5107001,
+      "dmrId": 9990001,
       "callsign": "PCL-PSG-01",
       "name": "PUTU SUARYANA",
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
     },
+    {
+      "dmrId": 9990002,
+      "callsign": "PCL-PSG-02",
+      "name": "WAYAN TIKA JAYA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990003,
+      "callsign": "PCL-PSG-03",
+      "name": "WAYAN SUDIANA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990004,
+      "callsign": "PCL-PSG-04",
+      "name": "NYOMAN SUWARTA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990005,
+      "callsign": "PCL-PSG-05",
+      "name": "GEDE JONI ASTIKA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990006,
+      "callsign": "PCL-PSG-06",
+      "name": "NYOMAN SUKADA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990007,
+      "callsign": "PCL-PSG-07",
+      "name": "WAYAN SUDIASA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 9990008,
+      "callsign": "PCL-PSG-08",
+      "name": "WAYAN DIYANTARA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"   
+    },
+    {
+      "dmrId": 9990009,
+      "callsign": "PCL-PSG-09",
+      "name": "NYOMAN SUTAWAN",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    },
+   {
+      "dmrId": 9990010,
+      "callsign": "PCL-PSG-10",
+      "name": "KETUT ASTAWA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+    }, 
     {
       "dmrId": 5107002,
       "callsign": "TSB002",
