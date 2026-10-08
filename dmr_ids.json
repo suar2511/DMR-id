@@ -73,5 +73,16 @@
       "state": "DENPASAR",
       "country": "INDONESIA"
     }
+  ],
+  "masterServers": [
+    {
+      "id": 0,
+      "name": "DMR PRIVATE",
+      "address": "103.147.33.11",
+      "port": 62040,
+      "options": false,
+      "network": "My Servers",
+      "password": "rahasia123"
+    }
   ]
 }
