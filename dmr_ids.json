@@ -1,36 +1,29 @@
 {
-  "users": [
+  "format": "z3dmr-backup",
+  "version": 1,
+  "talkgroups": [
     {
-      "name": "PUTU SUARYANA",
-      "fname": "PUTU SUARYANA",
-      "surname": "",
-      "country": "INDONESIA",
+      "id": 5107,
+      "name": "DMR PRIVATE",
+      "network": "My Servers"
+    }
+  ],
+  "contacts": [
+    {
+      "dmrId": 5107001,
       "callsign": "PCL26PSY",
+      "name": "PUTU SUARYANA",
       "city": "BALI",
-      "radio_id": 5107001,
-      "id": 5107001,
-      "state": "BALI",
-      "has_valid_callsign": "1",
-      "has_valid_email": 0,
-      "account_unvalidated": 0,
-      "account_validation_status": "validated"
+      "state": "DENPASAR",
+      "country": "INDONESIA"
     },
     {
-  "users": [
-    {
-      "name": "TSB002",
-      "fname": "TSB002",
-      "surname": "",
-      "country": "INDONESIA",
-      "callsign": "TSB02PSY",
-      "city": "DENPASAR",
-      "radio_id": 5107002,
-      "id": 1025001,
-      "state": "BALI",
-      "has_valid_callsign": "1",
-      "has_valid_email": 0,
-      "account_unvalidated": 0,
-      "account_validation_status": "validated"
+      "dmrId": 5107002,
+      "callsign": "TSB002",
+      "name": "PUTU SUARYANA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
     },
   ]
 }
