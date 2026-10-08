@@ -1,20 +1,18 @@
-{
-  "users": [
-    {
-      "id": 5107001,
-      "callsign": "PCL01PSY",
-      "name": "Putu Suaryana",
-      "city": "Denpasar",
-      "state": "Bali",
-      "country": "Indonesia"
-    },
-    {
-      "id": 5107002,
-      "callsign": "TSB02PSY",
-      "name": "Putu Suaryana",
-      "city": "Denpasar",
-      "state": "Bali",
-      "country": "Indonesia"
-    }
-  ]
-}
+[
+  {
+    "id": 5107001,
+    "callsign": "PCL01PSY",
+    "name": "Putu Suaryana",
+    "city": "Denpasar",
+    "state": "Bali",
+    "country": "Indonesia"
+  },
+  {
+    "id": 5107002,
+    "callsign": "TSB02PSY",
+    "name": "Putu Suaryana",
+    "city": "Denpasar",
+    "state": "Bali",
+    "country": "Indonesia"
+  }
+]
