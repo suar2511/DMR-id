@@ -154,7 +154,7 @@
   "masterServers": [
     {
       "id": 1,
-      "name": "DMR PRIVATE",
+      "name": "DMR PCL",
       "address": "103.147.33.11",
       "port": 62040,
       "options": false,
