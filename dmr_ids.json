@@ -76,7 +76,7 @@
       "name": "WAYAN DIYANTARA",
       "city": "BALI",
       "state": "DENPASAR",
-      "country": "INDONESIA"   
+      "country": "INDONESIA"
     },
     {
       "dmrId": 9990009,
@@ -86,14 +86,14 @@
       "state": "DENPASAR",
       "country": "INDONESIA"
     },
-   {
+    {
       "dmrId": 9990010,
       "callsign": "PCLPSG10",
       "name": "KETUT ASTAWA",
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
-    }, 
+    },
     {
       "dmrId": 5107002,
       "callsign": "TSB002",
@@ -153,21 +153,22 @@
   ],
   "masterServers": [
     {
-      "id": 0,
+      "id": 1,
       "name": "DMR PRIVATE",
       "address": "103.147.33.11",
       "port": 62040,
       "options": false,
       "network": "PCL Servers",
       "password": "rahasia123"
-    }
-  ]{
-      "id": 0,
+    },
+    {
+      "id": 2,
       "name": "DMR TSB",
       "address": "103.147.33.11",
       "port": 62041,
       "options": false,
       "network": "TSB Servers",
       "password": "rahasia123"
-}
+    }
+  ]
 }
