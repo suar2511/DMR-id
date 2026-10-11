@@ -1,18 +1,20 @@
 {
   "format": "z3dmr-backup",
-  "version": 1,
+  "version": 4,
+
   "talkgroups": [
     {
       "id": 5107,
-      "name": "DMR PRIVATE",
-      "network": "My Servers"
+      "name": "DMR TSB",
+      "network": "TSB Servers"
     },
     {
       "id": 9990,
-      "name": "PECALANG PESANGGARAN",
-      "network": "My Servers"
+      "name": "DMR PCL",
+      "network": "PCL Servers"
     }
   ],
+
   "contacts": [
     {
       "dmrId": 9990001,
@@ -95,19 +97,19 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107002,
-      "callsign": "TSB002",
-      "name": "PUTU SUARYANA",
-      "city": "BALI",
-      "state": "DENPASAR",
-      "country": "INDONESIA"
-    },
-    {
       "dmrId": 5107003,
       "callsign": "TSB001",
       "name": "KADE EDI SUARJAYA",
       "city": "BALI",
       "state": "KARANGASEM",
+      "country": "INDONESIA"
+    },
+    {
+      "dmrId": 5107002,
+      "callsign": "TSB002",
+      "name": "PUTU SUARYANA",
+      "city": "BALI",
+      "state": "DENPASAR",
       "country": "INDONESIA"
     },
     {
@@ -151,6 +153,7 @@
       "country": "INDONESIA"
     }
   ],
+
   "masterServers": [
     {
       "id": 1,
@@ -159,7 +162,9 @@
       "port": 62040,
       "options": false,
       "network": "PCL Servers",
-      "password": "rahasia123"
+      "password": "rahasia123",
+      "keepalive": 8,
+      "odtp": false
     },
     {
       "id": 2,
@@ -168,7 +173,23 @@
       "port": 62041,
       "options": false,
       "network": "TSB Servers",
-      "password": "rahasia123"
+      "password": "rahasia123",
+      "keepalive": 8,
+      "odtp": false
     }
-  ]
+  ],
+
+  "favorites": {
+    "talkgroups": [],
+    "contacts": [],
+    "servers": []
+  },
+
+  "scan": {
+    "talkgroups": []
+  },
+
+  "buddies": {
+    "contacts": []
+  }
 }
