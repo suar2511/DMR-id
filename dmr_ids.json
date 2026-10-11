@@ -153,13 +153,21 @@
   ],
   "masterServers": [
     {
-      "id": 0,
+      "id": 1,
       "name": "DMR PRIVATE",
       "address": "103.147.33.11",
       "port": 62040,
       "options": false,
-      "network": "My Servers",
+      "network": "PCL Servers",
       "password": "rahasia123"
     }
-  ]
+  ]{
+      "id": 2,
+      "name": "DMR TSB",
+      "address": "103.147.33.11",
+      "port": 62041,
+      "options": false,
+      "network": "TSB Servers",
+      "password": "rahasia123"
+}
 }
