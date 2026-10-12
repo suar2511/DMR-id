@@ -152,6 +152,14 @@
       "state": "DENPASAR",
       "country": "INDONESIA"
     }
+        {
+      "dmrId": 5107009,
+      "callsign": "TSB00202",
+      "name": "TARI PUTU",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
+        }
   ],
 
   "masterServers": [
