@@ -12,6 +12,11 @@
       "id": 9990,
       "name": "DMR PCL",
       "network": "PCL Servers"
+    },
+    {
+      "id": 9990,
+      "name": "DMR EXOTIC",
+      "network": "EXOTIC Servers"
     }
   ],
 
@@ -159,6 +164,14 @@
       "city": "BALI",
       "state": "DENPASAR",
       "country": "INDONESIA"
+    },
+    {
+      "dmrId": 2019001,
+      "callsign": "SEC002",
+      "name": "PUTU SUARYANA",
+      "city": "BALI",
+      "state": "DENPASAR",
+      "country": "INDONESIA"
     }
   ],
 
@@ -181,6 +194,17 @@
       "port": 62041,
       "options": false,
       "network": "TSB Servers",
+      "password": "rahasia123",
+      "keepalive": 8,
+      "odtp": false
+    },
+  {
+      "id": 3,
+      "name": "DMR EXOTIC",
+      "address": "103.147.33.11",
+      "port": 62042,
+      "options": false,
+      "network": "EXOTIC Servers",
       "password": "rahasia123",
       "keepalive": 8,
       "odtp": false
