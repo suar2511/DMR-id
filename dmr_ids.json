@@ -102,7 +102,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107003,
+      "dmrId": 5107001,
       "callsign": "TSB001",
       "name": "KADE EDI SUARJAYA",
       "city": "BALI",
@@ -118,7 +118,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107004,
+      "dmrId": 5107003,
       "callsign": "TSB003",
       "name": "ARIF",
       "city": "BALI",
@@ -126,7 +126,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107005,
+      "dmrId": 5107004,
       "callsign": "TSB004",
       "name": "FREDY KUSUMA",
       "city": "BALI",
@@ -134,7 +134,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107006,
+      "dmrId": 5107005,
       "callsign": "TSB005",
       "name": "WAYAN",
       "city": "BALI",
@@ -142,7 +142,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107007,
+      "dmrId": 5107006,
       "callsign": "TSB006",
       "name": "ADIT",
       "city": "BALI",
@@ -150,7 +150,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107008,
+      "dmrId": 5107007,
       "callsign": "TSB007",
       "name": "SENTANA",
       "city": "BALI",
@@ -158,7 +158,7 @@
       "country": "INDONESIA"
     },
     {
-      "dmrId": 5107009,
+      "dmrId": 5107008,
       "callsign": "TSB00202",
       "name": "TARI PUTU",
       "city": "BALI",
