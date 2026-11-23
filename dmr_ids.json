@@ -179,7 +179,7 @@
     {
       "id": 1,
       "name": "DMR PCL",
-      "address": "103.147.33.11",
+      "address": "31.59.119.248",
       "port": 62040,
       "options": false,
       "network": "PCL Servers",
@@ -190,7 +190,7 @@
     {
       "id": 2,
       "name": "DMR TSB",
-      "address": "103.147.33.11",
+      "address": "31.59.119.248",
       "port": 62041,
       "options": false,
       "network": "TSB Servers",
@@ -201,7 +201,7 @@
   {
       "id": 3,
       "name": "DMR EXOTIC",
-      "address": "103.147.33.11",
+      "address": "31.59.119.248",
       "port": 62042,
       "options": false,
       "network": "EXOTIC Servers",
